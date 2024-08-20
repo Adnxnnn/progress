@@ -31,6 +31,7 @@ body{
     font-size: 14px;
     font-weight: 600;
     color: #333;
+    padding-left: 50%;
 }
 .skill-box .skill-bar{
     height: 8px;
